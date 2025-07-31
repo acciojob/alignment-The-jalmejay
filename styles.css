@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+.left {
+    text-align: left;
+    width: 200px;
+}
+
+.center {
+    text-align: center;
+    width: 300px;
+}
+
+.right {
+    text-align: right;
+    width: 250px;
+}
+.col{
+	width:125px;
+	height:12px
+}
+
+.firstCol{
+	background-color:green;
+}
+.lastCol{
+	background-color:blue;
+}
+.topcol{
+	background-color:green;
+	width:250px;
+	height:12px;
+}
+.colss{
+	width:250px
+}
+.botCol{
+	background-color:blue;
+	width:250px;
+	height:12px;
+}
+.imagecard{
+	width:250px;
+}
