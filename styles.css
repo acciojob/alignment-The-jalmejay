@@ -15,7 +15,9 @@
 }
 .col{
 	width:125px;
-	height:12px
+	height:12px;
+	border:1px soild rgb(0,0,0);
+	padding:1px;
 }
 
 .firstCol{
