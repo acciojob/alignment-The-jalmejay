@@ -16,6 +16,9 @@
 .col{
 	width:125px;
 	height:12px;
+	
+}
+td{
 	border:1px soild rgb(0,0,0);
 	padding:1px;
 }
